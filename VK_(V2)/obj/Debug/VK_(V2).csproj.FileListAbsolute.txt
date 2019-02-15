@@ -1,0 +1,15 @@
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\VK_(V2).exe.config
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\VK_(V2).exe
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\VK_(V2).pdb
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK__V2_.Main.resources
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK__V2_.Properties.Resources.resources
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK_(V2).csproj.GenerateResource.Cache
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK_(V2).exe
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK_(V2).pdb
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\Newtonsoft.Json.dll
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\xNet.dll
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\Newtonsoft.Json.pdb
+D:\C#\VK_(V2)\VK_(V2)\bin\Debug\Newtonsoft.Json.xml
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK__V2_.Authorization.resources
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK__V2_.Settings.resources
+D:\C#\VK_(V2)\VK_(V2)\obj\Debug\VK_(V2).csprojResolveAssemblyReference.cache
